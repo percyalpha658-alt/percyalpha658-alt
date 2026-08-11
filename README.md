@@ -54,7 +54,7 @@ Projects and practical work related to electrical installations, electrical mach
 
 Main interests:
 
-> Automation and Industrial Computing • Electrical Systems • Electronics • Energy
+**Automation and Industrial Computing • Electrical Systems • Electronics • Energy**
 
 ---
 
@@ -68,8 +68,8 @@ I am also interested in contributing to Wikimedia projects by sharing and learni
 
 ## 📫 Contact
 
-- 📧 Email: percyalpha658@gmail.com
-- 🐦 X: [@Alpha Uwacowun](#)
+- 📧 Email: `percyalpha658@gmail.com`
+- 🐦 X: **@Alpha Uwacowun**
 
 ---
 
