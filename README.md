@@ -68,8 +68,9 @@ I am also interested in contributing to Wikimedia projects by sharing and learni
 
 ## 📫 Contact
 
-- 📧 Email: `percyalpha658@gmail.com`
-- 🐦 X: **@Alpha Uwacowun**
+- 📧 Email: [percyalpha658@gmail.com](mailto:percyalpha658@gmail.com)
+- 🐦 X: [@AlphaUwacowun](https://x.com/AlphaUwacowun)
+- 🌍 Wikimedia: [Alpha Uwacowun](https://meta.wikimedia.org/wiki/User:Alpha_Uwacowun)
 
 ---
 
